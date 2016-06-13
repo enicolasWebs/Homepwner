@@ -1,0 +1,12 @@
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "6Ar-52-fkJ"; */
+"6Ar-52-fkJ.title" = "Item";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Rep-xj-Cs4"; */
+"Rep-xj-Cs4.text" = "Name";
+
+/* Class = "UILabel"; text = "Value"; ObjectID = "iJr-h7-tZv"; */
+"iJr-h7-tZv.text" = "Wert";
+
+/* Class = "UILabel"; text = "Serial Number"; ObjectID = "xcR-Rs-lcD"; */
+"xcR-Rs-lcD.text" = "Ordnungsnummer";
